@@ -1,2 +1,2 @@
 # react-todo-app
-This is a collaboration work for building a To-do App using React
+This is a project for building a To-do App using React
